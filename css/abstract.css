@@ -1,0 +1,81 @@
+body {
+    margin-left: 1.0cm;
+    margin-right: 1.0cm;
+    background-color: #fff;
+    font-family: "Times New Roman";
+    font-size: 12pt;
+}
+
+
+#title {
+    font-weight: bold;
+    font-size: 1.7em;
+    page-break-inside: avoid;
+    page-break-after: auto;
+    break-before: avoid-column;
+    text-align: left;
+}
+
+
+#authors {
+    margin-top: 3em;
+    margin-bottom: 3em;
+    font-size: 0.8em;
+    list-style: none;
+}
+
+#authors li {
+    display: inline;
+    break-inside: avoid;
+    white-space: nowrap;
+}
+
+#authors li::after {
+    content: ',';
+}
+
+
+
+#content {
+    columns: 2;
+    text-align: justify;
+    break-inside: avoid-column;
+}
+
+#content p {
+    break-before: avoid-column;
+    page-break-after: auto;
+}
+
+#content h1,
+#content h2,
+#content h3 {
+    page-break-inside: avoid;
+    page-break-after: avoid;
+    text-align: left;
+}
+
+#content h2 {
+    font-size: 1.4em;
+}
+
+#content h3 {
+    font-size: 1.2em;
+}
+
+
+
+#bibliography th {
+    break-inside: avoid;
+    vertical-align: top;
+    white-space: nowrap;
+}
+
+#bibliography + ul {
+    list-style: none;
+}
+
+#bibliography + ul li {
+    break-inside: avoid;
+    page-break-inside: avoid;
+}

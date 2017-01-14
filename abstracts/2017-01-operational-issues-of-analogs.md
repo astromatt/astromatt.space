@@ -7,13 +7,13 @@ tags: [geology, analog, simulation, EVA]
 
 ## Authors
 
-- M. Harasymczuk <matt@astromatt.space>
-- A. Kolodziejczyk <maria.kolodziejczyk@esa.int>
-- H. Vos <heleen.vos@esa.int>
-- M. Mirino <melissa.mirino@esa.int>
-- L. Davidova <lucyanna.cr@gmail.com>
-- M. Krainski <mateusz.krainski@esa.int>
-- B. Foing <bernard.foing@esa.int>
+- M. Harasymczuk <matt@astromatt.space>, ESA, University of Warsaw,
+- A. Kolodziejczyk <maria.kolodziejczyk@esa.int> ESA
+- H. Vos <heleen.vos@esa.int>, ESA
+- M. Mirino <melissa.mirino@esa.int>, ESA
+- L. Davidova <lucyanna.cr@gmail.com>, University of Prague
+- M. Krainski <mateusz.krainski@esa.int>, ESA
+- B. Foing <bernard.foing@esa.int>, ESA
 - et. al.
 
 ## Introduction
